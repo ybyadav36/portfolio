@@ -106,6 +106,4 @@ portfolio/
 - **Skills**: Edit `skillGroups` in `components/Skills.tsx`
 - **GitHub links**: Search for `github.com/brijeshyadav` and update to your actual username
 
-## 📄 License
 
-MIT — feel free to use and adapt.
